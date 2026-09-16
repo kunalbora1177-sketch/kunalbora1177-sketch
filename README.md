@@ -60,12 +60,6 @@ An AI SaaS application that generates short-form video content end-to-end.
 - 🐍 **Complete 2026 Python Bootcamp: Learn Python from Scratch** (Udemy) — 17.5 hours
 - ☁️ **AWS Training & Certification — Foundations of Prompt Engineering**
 
----
-
-### 📊 GitHub Stats
-
-![Kunal's GitHub stats](https://github-readme-stats.vercel.app/api?username=kunalbora1177-sketch&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kunalbora1177-sketch&layout=compact)
 
 ---
 
@@ -73,12 +67,5 @@ An AI SaaS application that generates short-form video content end-to-end.
 
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:kunalbora1177@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/kunal-kashyap-bora-b8ab18173)
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 -->
