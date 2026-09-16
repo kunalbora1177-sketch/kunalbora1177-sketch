@@ -5,7 +5,7 @@ I'm **Kunal Kashyap Bora**, a Computer Science and Engineering graduate (First C
 - 🔭 Recently built **VidSnapAI**, an AI-powered TikTok/Reel generator (Python, Flask, ElevenLabs, ffmpeg)
 - 🌱 Currently deepening my skills in AI/ML fundamentals and Generative AI concepts
 - 💼 Completed Industrial Internships at **APDCL** (IT Department) and **Nagaon Municipal Board**
-- 📜 Deloitte-certified in Data Analytics (via Forage) | Completed a dedicated Python Bootcamp
+- 📜 Deloitte-certified in Data Analytics (via Forage) | AWS-certified in Prompt Engineering | Completed a dedicated Python Bootcamp
 - 🎯 Looking for opportunities in **Software Engineering**, **Full-Stack Development**, and **AI/ML**
 - 📫 Reach me at **kunalbora1177@gmail.com**
 
@@ -27,6 +27,7 @@ I'm **Kunal Kashyap Bora**, a Computer Science and Engineering graduate (First C
 ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 
 **Tools**
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -57,6 +58,7 @@ An AI SaaS application that generates short-form video content end-to-end.
 
 - 🎓 **Deloitte — Data Analytics Job Simulation** (via Forage) — Data Analysis & Forensic Technology
 - 🐍 **Complete 2026 Python Bootcamp: Learn Python from Scratch** (Udemy) — 17.5 hours
+- ☁️ **AWS Training & Certification — Foundations of Prompt Engineering**
 
 ---
 
@@ -71,12 +73,6 @@ An AI SaaS application that generates short-form video content end-to-end.
 
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:kunalbora1177@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/kunal-kashyap-bora-b8ab18173)
-
-<!--
-**kunalbora1177-sketch/kunalbora1177-sketch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
