@@ -36,24 +36,6 @@ I'm **Kunal Kashyap Bora**, a Computer Science and Engineering graduate (First C
 
 ---
 
-### 🚀 Featured Projects
-
-#### 🧳 [Axom Vista Tours & Travels](https://github.com/kunalbora1177-sketch/Axom-Vista) — Full-Stack Business CRM
-A complete CRM built for a travel agency, from schema design to deployment.
-- **Frontend:** Next.js, React, TypeScript
-- **Backend/DB:** Supabase (PostgreSQL)
-- **Integration:** Twilio API for business communication automation
-- **Deployment:** Vercel
-
-#### 🎬 VidSnapAI — AI-Powered TikTok/Reel Generator
-An AI SaaS application that generates short-form video content end-to-end.
-- **Backend:** Python, Flask
-- **AI Audio:** ElevenLabs integration for realistic voice generation
-- **Video Pipeline:** ffmpeg + Python for automated reel assembly
-- Built, tested, and shipped — including an in-app gallery for generated output
-
----
-
 ### 📜 Certifications
 
 - 🎓 **Deloitte — Data Analytics Job Simulation** (via Forage) — Data Analysis & Forensic Technology
